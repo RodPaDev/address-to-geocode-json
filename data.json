@@ -1,0 +1,22 @@
+[
+    {
+        "id": "1",
+        "city": "Shelton",
+        "state": "WA",
+        "country": "USA"
+    },
+    {
+        "id": "2",
+        "city": "Aloha",
+        "state": "OR",
+        "country": "USA"
+
+    },
+    {
+        "id": "3",
+        "city": "Guimaraes",
+        "state": "Brage",
+        "country": "Portugal"
+
+    }
+]
